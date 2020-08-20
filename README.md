@@ -1,2 +1,2 @@
 # eureka-server
-A Spring Boot showcase of an eureka server.
+A Spring Boot showcase of service registration and discovery with Netflix Eureka service registry.
